@@ -67,6 +67,7 @@ Mi meta es seguir creciendo profesionalmente como desarrollador, integrarme a un
 ## 📫 Contacto
 
 - 💼 [LinkedIn](www.linkedin.com/in/geovanny-vera)
+- www.linkedin.com/in/geovanny-vera
 - 📧 geovanny00vera@gmail.com 
 
 
