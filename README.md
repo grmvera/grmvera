@@ -66,7 +66,7 @@ Mi meta es seguir creciendo profesionalmente como desarrollador, integrarme a un
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](www.linkedin.com/in/geovanny-rodolfo-vera-murillo-328846296)
+- 💼 [LinkedIn](www.linkedin.com/in/geovanny-vera)
 - 📧 geovanny00vera@gmail.com 
 
 
