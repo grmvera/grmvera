@@ -75,8 +75,6 @@ Actualmente, me especializo en construir soluciones **eficientes y escalables co
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=grmvera&theme=tokyonight&hide_border=true&locale=es&card_width=500&card_height=220" alt="GitHub Streak"/>
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=grmvera&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="GitHub Stats"/>
 </p>
 
